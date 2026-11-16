@@ -1,7 +1,7 @@
 {
   "id": "wikilink-peek",
   "name": "Wikilink Peek",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minAppVersion": "1.5.0",
   "description": "Open wikilinks in a centred Notion-style peek panel instead of navigating away.",
   "author": "JJ21112",
