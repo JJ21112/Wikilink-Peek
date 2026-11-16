@@ -1,9 +1,9 @@
 {
-  "id": "wikilink-peek",
-  "name": "Wikilink Peek",
+  "id": "obsidian-peek",
+  "name": "Obsidian Peek",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
   "description": "Open wikilinks in a centred Notion-style peek panel instead of navigating away.",
-  "author": "JJ",
+  "author": "JJ21112",
   "isDesktopOnly": false
 }
